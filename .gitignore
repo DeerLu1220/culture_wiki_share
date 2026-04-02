@@ -1,5 +1,6 @@
 # Output directories
 temp/
+raw_data/
 
 # Python
 __pycache__/
